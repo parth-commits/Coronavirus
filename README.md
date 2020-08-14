@@ -1,7 +1,7 @@
 # Coronavirus
 Covid-19 live data app
 These are all the project files for the covid-19 live data tracker app. 
-The installation APK is in the master directory (home screen), please use that to download the app. The rest is android studio files. 
+The installation APK is in the master directory (home screen) labeled: "Covid-19 live data", please use that to download the app. The rest is android studio files. 
 
 
 Description:
