@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">COVID-19 Live Data</string>
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_earthquakes">No COVID-19 data found.</string>
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">\t\t\t\t\t\tNo internet Connection \nConnect to internet and try again.</string>
+    <string name="last_update">Last updated:\ \ </string>
+    <string name="at">\ at\ \ </string>
+    <string name="total">Total cases:</string>
+    <string name="active">Active:</string>
+    <string name="recovered">Recovered:</string>
+    <string name="pop">Population:</string>
+    <string name="critical">Critical:</string>
+    <string name="deaths">Deaths:</string>
+    <string name="newcases">New Cases</string>
+    <string name="newdeaths">New Deaths:</string>
+    <string name="newrecovered">New Recoveries:</string>
+    <string name="info">There are a lot of websites and apps out there that provide users with latest COVID-19 data. But they all have one thing in common, they all have ADs. These ADs ruin the user experience of quickly updating themselves on the latest cases and more. So this app was created to strip down the data to the basics with NO Ads! Horray!</string>
+    <string name="note">Note: This app was designed for educational and research purposes only. If this app is found being illegally sold and marketed on the Internet, please contact the developer by clicking on the logo above.</string>
+    <string name="moreinfo">For more info on the data source provider or any other query or concern, please contact the developer by clicking on the logo above.</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#1a1a1a</color>
+    <!-- Text color for the details of the earthquake in the list item -->
+    <color name="subheading">#B4BAC0</color>
+    <color name="red">#de4949</color>
+    <color name="green">#89e090</color>
+    <color name="cool_yellow">#f9e7b8</color>
+    <color name="default_grey">#727272</color>
+    <color name="bar_blue">#273e4e</color>
+</resources>
+    <!--8a1900 red old008a1c-->
